@@ -11,6 +11,4 @@ Este repositorio es de ayuda para poder comprender varios temas que estan dentro
 - Compresión y Descompresión de ficheros
 - emails
 
-***
-
 > Aprender, Desarrollar y Compartir
